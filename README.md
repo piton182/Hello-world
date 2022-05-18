@@ -1,3 +1,9 @@
 # Node.js Hello World
-## terminal node app.js
+
+## Как запускать
+
+```sh
+$> node app.js
+```
+
 ## terminal node test.js
